@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "age": 23,
+      "address": {
+        "house": "23 B",
+        "street": "35 Check Street",
+        "city": "Lahore"
+      }
+    }
+  ]
+}
